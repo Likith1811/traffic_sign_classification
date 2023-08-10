@@ -6,4 +6,4 @@ The project implements various image preprocessing techniques such as resizing 
 
 
 
-LINK FOR THE PROJECT FILE:https://drive.google.com/file/d/1f9RZi3qlc55FBj6YeryJXEESGrnC0Cvv/view?usp=drive_link
+LINK FOR THE PROJECT FILE:https://drive.google.com/drive/u/0/folders/1K5ILN1klTpzx9w1MXhUDv6kWwgA1C_xr
